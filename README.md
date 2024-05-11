@@ -16,6 +16,9 @@ This project is a sophisticated YouTube Comment Sentiment Analyzer designed to d
 - Provides a user-friendly web interface to analyze sentiment distribution for YouTube videos
 
   Webpage
+
+  Our project encompasses a user-friendly webpage designed for analyzing sentiments within YouTube video comments. Users can seamlessly share the YouTube video link on our platform to receive sentiment scores reflecting the overall sentiment of the video's comments. Leveraging React for frontend development and Flask for backend development, our webpage ensures a smooth and responsive user experience. The sentiment scores encompass three categories: positive, neutral, and negative. Upon analysis, our webpage dynamically changes its color scheme to visually represent the sentiment distribution.
+  
   
 The interface displays red dynamically when there’s a greater number of negative comments.
 ![Screenshot 2024-05-11 121033](https://github.com/shreyas066/IML_youtube_comment/assets/131354922/bde0538a-df4e-464d-b4b8-eaa4276eb55e) 
